@@ -66,6 +66,6 @@ The models were trained and evaluated on the test dataset. Random Forest achieve
 
 ## Author
 
-# Youssef Badawi Sidqi Attia
+ Youssef Badawi Sidqi Attia
 
 CodeAlpha Machine Learning Internship Project
